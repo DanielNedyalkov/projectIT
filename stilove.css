@@ -1,0 +1,109 @@
+body{
+    background-color:#5B84B1FF;
+    width: 1000px;
+    margin: auto;
+}
+
+
+header{
+  
+background-color: #FC766AFF;  
+height: 80px;
+width: 100%;
+position: fixed;
+top: 0px;
+left: 0px;    
+right: 0px; 
+text-align: center;
+vertical-align: middle;    
+}
+footer{
+background-color:#FC766AFF ;   
+height:60px; 
+width:100%;
+position:fixed;
+bottom:0px;
+left:0px;
+right:0px;
+text-align:center;
+vertical-align: middle;
+       
+}
+
+h1{
+font-style: Arial;
+font-size: 40px;
+font-weight: bold;
+color:#000000FF ;
+margin-top: 20px;
+text-align: center;
+        
+}
+
+h6{
+font-style: Arial;
+font-size: 20px;
+font-weight: bold;   
+color:#FC766AFF ;
+margin-top: 20px;
+text-align: center;   
+        
+}
+
+
+
+#portret{
+ width: 350px;
+ height: 400px;
+    
+}
+
+h2{
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 20px;
+}
+    
+#image1{
+width: 500px;
+height: 250px;
+    
+}
+
+#image2{
+ width:300px;
+height:450px;
+    
+}
+
+#image3{
+width: 250px;
+height: 200px;
+
+}
+
+#image4{
+width: 250px;
+height: 200px;
+    
+}
+
+#descr{
+    color: black;
+    text-align: center;
+
+}
+
+#tvorbi{
+    color: black;
+    text-align: center;
+}
+
+#Name{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
